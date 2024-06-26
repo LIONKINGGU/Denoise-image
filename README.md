@@ -1,3 +1,4 @@
+# Denoise Images
 The primary objective of the project was to develop a method for denoising noisy images, specifically focusing on the MNIST dataset. The MNIST dataset contains handwritten digits, which are widely used for training and testing image processing systems, particularly in the context of machine learning and neural networks. The goals included:
 
 Understanding the Impact of Noise on Image Quality: By adding noise to the original MNIST images, the project aimed to simulate real-world conditions where images might be corrupted by various types of noise.
